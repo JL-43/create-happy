@@ -1,7 +1,8 @@
 import React from 'react';
 
 const Card = (props) => {
-	const parentClass = `rounded overflow-hidden shadow-lg flex flex-col h-72 mb-10 text-left border-t-4 border-1 border-${props.color}-400`;
+	const borderColor = `border-${props.color}-400`;
+	const parentClass = `rounded overflow-hidden shadow-lg flex flex-col h-72 mb-10 text-left border-t-4 border-1 ${borderColor}`;
 	return (
 		<div className={parentClass}>
 			<div className='flex justify-around'>
