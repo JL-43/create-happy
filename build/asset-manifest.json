@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91a49e57.chunk.css",
+    "main.js": "/static/js/main.47adc83a.chunk.js",
+    "main.js.map": "/static/js/main.47adc83a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a0e7723b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a0e7723b.js.map",
+    "static/js/2.df4ddccc.chunk.js": "/static/js/2.df4ddccc.chunk.js",
+    "static/js/2.df4ddccc.chunk.js.map": "/static/js/2.df4ddccc.chunk.js.map",
+    "static/js/3.82e8df54.chunk.js": "/static/js/3.82e8df54.chunk.js",
+    "static/js/3.82e8df54.chunk.js.map": "/static/js/3.82e8df54.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.91a49e57.chunk.css.map": "/static/css/main.91a49e57.chunk.css.map",
+    "static/js/2.df4ddccc.chunk.js.LICENSE.txt": "/static/js/2.df4ddccc.chunk.js.LICENSE.txt",
+    "static/media/chandelier.027807d0.jpg": "/static/media/chandelier.027807d0.jpg",
+    "static/media/logo.12a04493.png": "/static/media/logo.12a04493.png",
+    "static/media/lugaw.7bfa1ebc.jpeg": "/static/media/lugaw.7bfa1ebc.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0e7723b.js",
+    "static/js/2.df4ddccc.chunk.js",
+    "static/css/main.91a49e57.chunk.css",
+    "static/js/main.47adc83a.chunk.js"
+  ]
+}
